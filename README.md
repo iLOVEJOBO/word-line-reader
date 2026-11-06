@@ -15,7 +15,6 @@ Windows 桌面工具：导入 TXT，在 Microsoft Word 窗口底部一次显示�
 
 ## 下载与使用
 
-在仓库右侧 **Releases** 中下载 `WordLineReader-v0.4.0-beta.zip`，完整解压后运行「单行阅读.exe」。GitHub 自动生成的 Source code 压缩包用于获取源码。
 
 1. 点击「导入 TXT」选择小说。
 2. 打开一个 Word 文档。
